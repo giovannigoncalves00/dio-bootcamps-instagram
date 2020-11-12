@@ -4,4 +4,4 @@
 
 Página de login do Instagram: 
 
-Nesse projeto, será abordado o conceito sobre CSS Flexbox e responsividade.
+Nesse projeto, recriamos a página de login do Instagram. Foi abordado o conceito sobre CSS Flexbox e responsividade.  
